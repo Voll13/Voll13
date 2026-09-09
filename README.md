@@ -15,8 +15,8 @@
   Развиваем собственную масштабную экосистему IT-продуктов и сервисов.
 </p>
 
-[![Telegram](https://img.shields.io/badge/Direct_Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![Telegram Channel](https://img.shields.io/badge/Mafia_Ecosystem-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Direct_Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tt00116)
+[![Telegram Channel](https://img.shields.io/badge/Mafia_Ecosystem-0088cc?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/](https://t.me/ProojectMafia))
 
 ---
 
